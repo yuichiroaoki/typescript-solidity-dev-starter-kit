@@ -1,4 +1,5 @@
-pragma solidity ^0.7.6;
+// SPDX-License-Identifier: agpl-3.0
+pragma solidity 0.6.12;
 
 import "hardhat/console.sol";
 
